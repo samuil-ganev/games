@@ -171,6 +171,9 @@ int main() {
         for (int i=0;i<10;++i) {
             cout << "=";
         }
+        if (isGameOver(binaryValues)) {
+            cout << endl << "Game Over";   
+        }
         cout << endl;
     }
     return 0;

@@ -13,6 +13,8 @@ def pc_can_win(x):
                     x[i][j] = 0
     return [False]
 
+# проверка дали печели с този код
+
 def win(x, e):
     for i in range(3):
         if x[i][0] == x[i][1] == x[i][2] == e:
@@ -29,7 +31,7 @@ def win(x, e):
 
     return False
 
-
+# начало на играта
 
 board = [[0 for i in range(3)] for j in range(3)]
 # print(board)

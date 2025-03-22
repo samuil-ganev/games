@@ -4,7 +4,7 @@
 #include<string>
 
 using namespace std;
-
+// test
 class Warrior {
 
     public:

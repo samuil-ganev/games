@@ -98,7 +98,7 @@ pair<int, int> findEmpty(int area[mapSize*mapSize][mapSize*mapSize]) {
     return {-1, -1};
 
 }
-
+# mnogo interesno
 void solve(int a[mapSize*mapSize][mapSize*mapSize]) {
 
     pair<int, int> coordinates = findEmpty(a);

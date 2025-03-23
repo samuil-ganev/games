@@ -60,7 +60,7 @@ int main() {
 
                     villages[turn].warriors.push_back(Warrior(position));
 
-            } else if (command == "house") {
+            } else if (command == "house") { // seriozno li
 
                     haveCommand = true;
 

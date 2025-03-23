@@ -46,6 +46,8 @@ variants = [el for el in variants if win(el, 'x') and not win(el, 'o')]
 # print(len(variants))
 # print(variants)
 
+# drugi promeni
+
 points = 0
 
 while not game_over:

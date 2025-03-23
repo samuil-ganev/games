@@ -116,3 +116,6 @@ while not game_over:
     points += 1
 
 input('Натисни бутон за да излезеш')
+
+
+# drug komentar

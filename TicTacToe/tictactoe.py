@@ -114,5 +114,5 @@ while not game_over:
     print_board = ''.join([str(i) for i in board[0]]) + '\n' + ''.join([str(i) for i in board[1]]) + '\n' + ''.join([str(i) for i in board[2]])
     print(print_board)
     points += 1
-
+# komentar
 input('Натисни бутон за да излезеш')

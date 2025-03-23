@@ -46,7 +46,11 @@ variants = [el for el in variants if win(el, 'x') and not win(el, 'o')]
 # print(len(variants))
 # print(variants)
 
-# drugi promeni
+
+'''
+tuk pravq razni promeni
+gdas
+'''
 
 points = 0
 

@@ -115,4 +115,4 @@ while not game_over:
     print(print_board)
     points += 1
 
-input('Press any key to exit.')
+input('Натисни бутон за да излезеш')

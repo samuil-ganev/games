@@ -14,7 +14,7 @@ def pc_can_win(x):
     return [False]
 
 # проверка дали печели с този код
-# pak promqna
+# pak promqna 2
 def win(x, e):
     for i in range(3):
         if x[i][0] == x[i][1] == x[i][2] == e:

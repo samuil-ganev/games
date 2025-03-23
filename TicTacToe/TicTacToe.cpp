@@ -16,7 +16,7 @@ vector<int> makeRandomNumbers() {
     }
     return numbers;
 }
-
+// comment
 vector<int> makeRandomPositions(const vector<vector<int>> &elements) {
     vector<int> positions;
     while (positions.size() == 0) {
